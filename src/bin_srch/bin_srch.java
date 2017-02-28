@@ -17,7 +17,7 @@ public class bin_srch {
 		System.out.println(output);
 		System.out.println("Thank you");
 		System.out.println("----------------");
-		System.out.println("yesterday all my troubles seem so far away");
-		System.out.println("now i look");
+		System.out.println("Yesterday all my troubles seemed so far away");
+		System.out.println("Now it looks as though they're here to stay");
 	}
 }
