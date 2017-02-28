@@ -16,5 +16,6 @@ public class bin_srch {
 		}
 		System.out.println(output);
 		System.out.println("Thank you");
+		System.out.println("----------------");
 	}
 }
