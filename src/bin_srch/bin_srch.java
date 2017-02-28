@@ -4,7 +4,7 @@ public class bin_srch {
 
 	public static void main(String[] args) {
 
-		int data[] = { 10 };
+		int data[] = { 1, 2, 6, 8, 3, 10, 9 };
 		int numberToFind = 10;
 		
 		int output = -1;
